@@ -1,0 +1,18 @@
+[submodule ".vim/bundle/comfortable-motion.vim"]
+	path = .vim/bundle/comfortable-motion.vim
+	url = https://github.com/yuttie/comfortable-motion.vim
+[submodule ".vim/bundle/ctrlp.vim"]
+	path = .vim/bundle/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule ".vim/bundle/dwm.vim"]
+	path = .vim/bundle/dwm.vim
+	url = https://github.com/spolu/dwm.vim
+[submodule ".vim/bundle/vim-coffee-script"]
+	path = .vim/bundle/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule ".vim/bundle/vim-elixir"]
+	path = .vim/bundle/vim-elixir
+	url = https://github.com/elixir-lang/vim-elixir.git
+[submodule ".vim/bundle/vim-javascript"]
+	path = .vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
