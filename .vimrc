@@ -8,3 +8,5 @@ autocmd BufWritePre * %s/\s\+$//e
 
 nnoremap <C-e> 10<C-e>
 nnoremap <C-y> 10<C-y>
+
+let g:ctrlp_custom_ignore = 'node_modules\|\.DS_Store\|\.git\|_build'
