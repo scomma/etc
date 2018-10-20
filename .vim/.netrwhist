@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/etc/redis'
-let g:netrw_dirhist_2='/home/pop/servers/prod'
-let g:netrw_dirhist_3='/home/pop/servers'
-let g:netrw_dirhist_4='/home/pop/servers/beta'
-let g:netrw_dirhist_5='/stage/t2199.staging365.net/script'
